@@ -1,3 +1,3 @@
-data = 80
-data= 45
-result = data+data
+d1 = 70
+d2= 30
+result = d1+d2
